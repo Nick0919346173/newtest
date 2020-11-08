@@ -6,6 +6,7 @@ import org.junit.Test;
 
 public class BowlingGameTest {
 	private Game g;
+
 	private int num2;
 
 	private void rollMany(int n, int pins) {
